@@ -1,2 +1,1 @@
-# MyFirstRepoKN
-My first ever repo
+This is for learning about GitHub (Versiohallinta 1 & 2)
